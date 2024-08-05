@@ -1,0 +1,44 @@
+a process of defining the following key situations:
+1. the elements of a system
+2. the interactions and relationships of these elements
+
+THE AIM OF THIS PROCESS IS TO SATISFY A SET OF SPECIFIED REQUIREMENTS
+*there are two categories of these requirements
+  1. functional requirements
+  2. non-functional requirements
+
+*note that SATISFY is an important keyword. 
+
+A system is defined, and consequently designed to SATISFY a set of specified requirements.
+
+
+It involves taking a problem statement, 
+  break it down into smaller components, 
+  and designing each component to work together effectively 
+  to achieve the overall goal of the system.
+
+The system design process typically includes
+    analyzing the current system - if any
+    determining any deficiencies
+    creating a detailed plan for the new system
+    testing the design to ensure that it meets the requirements
+
+IT IS AN ITERATIVE PROCESS THAT MAY INVOLVE MANY ROUNDS OF DESIGN, TESTING AND REFINEMENT
+
+System Design is actually a phase in a software development process.
+    it focuses on high-level design of a software system - including the architecture and its components.
+
+A GOOD SYSTEM DESIGN ENGINEER SHOULD BE ABLE TO DO THE FOLLOWING:
+    1. understand a given problem statement
+    2. come up with a detailed design of a system that solves that problem statement
+    3. understand and be able to discuss the following of the suggested sytem
+        - ARCHITECTURE
+        - COMPONENTS
+        - INTERACTIONS
+        - TRADE-OFFs involved in the design
+        - ALTERNATIVES considered
+
+
+THEREFORE, SYSTEM DESIGN = Architecture + Components + Interactions + Trade-Offsree download Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems
+
+  
