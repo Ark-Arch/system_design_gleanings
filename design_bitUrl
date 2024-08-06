@@ -1,3 +1,11 @@
+PROBLEM = Design a URL shortening service like bit.ly
+*since there are a lot that are unclear with the above problem, 
+it then becomes important to discuss the use case and the constraints, and come to a definition for it
+what are the 
+- requiremnets
+- risks
+- assumptions
+- constraints
 DEFINING THE USE CASES
 
 
@@ -6,3 +14,41 @@ DEFINING THE USE CASES
   - RRAC = Requirements, Risks, Assumptions, and Constraints
   - Requirements is really what the system MUST DO - what it must achieve at the end of the day!
   - Risks, Assumptions and Constraints => this is what further defines that the requirements can or can not be!
+
+
+CONSIDERING THE PROBLEM, DEFINE THE USE CASE?
+USE CASE
+1. Shortening: take a url => return a much shorter url
+2. Redirection: take a short url => redirect to the original url
+*the above use cases jump at us based on what the problem is
+3. Custom url
+4. High Availability => THE NON-FUNCTIONAL REQUIREMENT OF THIS SYSTEM
+out of scope use cases
+4. Analytics
+5. Automatic link expiration
+6. Manual link removal
+7. User Interface vs just an API
+
+*NOTE that use cases define the FUNCTIONAL REQUIREMENTS OF THE SYSTEM
+the non-functional requirements are also important to tbe considered
+example include
+- high availability
+
+******NOTE THE FOLLOWING**************
+Although non-functional requirements are crucial for the overall system quality and user satisfaction,
+they do not define specific use cases but rather THEY SET THE CRITERIA UNDER WHICH THE USE CASES
+MUST BE PERFORMED!!!!!
+**************************************
+
+
+
+
+
+
+
+
+
+
+
+
+
