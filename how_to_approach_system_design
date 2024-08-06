@@ -1,0 +1,24 @@
+THE APPROACH TO A GREAT SYSTEM DESIGN
+
+a template to follow for a system design question
+https://leetcode.com/discuss/career/229177/My-System-Design-Template
+
+approach to designing a system
+
+RRAC - Requirements Risks Assumptions and Constraints
+
+*Scalability is the 4th step of the system design process.
+
+1. Understand what the problem is -RRAC. rewquirement, risk, assumptions and constraints
+2. identify the scope of the problem
+3. research and analyze existing systems. look at what is similar, and identify what worked well and did not.
+4. create a high-
+
+
+THE SYSTEM DESIGN PROCESS
+1. DEFINE THE CONSTRAINTS AND THE USE CASES OF THE SYSTEM 
+  It is very important to gather the requirements of the system.
+   clarify the constraints of the system
+   identify the use cases the system would need to satisfy.
+
+    DEFINE THE SCOPE OF THE SYSTEM - and its boundaries.
