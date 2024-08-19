@@ -1,0 +1,10 @@
+consists of 4 steps:
+
+1) Constraints and use cases.
+    system design are most likely weakly designed.
+    a question like 'design url shortening service like bit.ly' has so many things unclear about it!.
+    therefore, do not start a design until you have cleared out the constraints and use cases - or the RRAC
+    Requirements, Risks, Assumptions and Constraints
+
+    - clarify what the system's constraints are
+    question and agree with your interviewer what the scope of the system is.

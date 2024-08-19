@@ -12,7 +12,14 @@ RRAC - Requirements Risks Assumptions and Constraints
 1. Understand what the problem is -RRAC. rewquirement, risk, assumptions and constraints
 2. identify the scope of the problem
 3. research and analyze existing systems. look at what is similar, and identify what worked well and did not.
-4. create a high-
+4. create a high-level design: outline the main components of the sytsem and how they will interact with each other.
+    this should include a rough diagram of the system's architecture
+5. refine the design
+    work on the details of the design, iterate and refine it until theres a complete and detailed design that meets all the requirements.
+
+6. Document the design
+
+7. continously monitor and improve the system
 
 
 THE SYSTEM DESIGN PROCESS
